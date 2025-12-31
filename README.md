@@ -6,3 +6,4 @@ DiversityZones.csv: Database root to conduct the diversity analyses and evenness
 DiversityRBC.csv: Database root to conduct the diversity analyses and evenness estimation only for the data inside the Calakmul Biosphere Reserve along 2016 to 2022.
 DiversityOutside.csv: Database root to conduct the diversity analyses and evenness estimation only for the data outside the Calakmul Biosphere Reserve along 2016 to 2022.
 DataScript.R: R Script to run the analyses mentioned before.
+Effort_Matrix.xlsx: A matrix of sampling effort per camera trap station and summaries of total sampling effort per year, and sampling effort each year both, inside and outside the boundaries of the CBR.
